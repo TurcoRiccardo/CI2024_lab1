@@ -7,6 +7,7 @@ Lab 1 - Set Cover
 - Classical testbench in combinatorics, computer science, operations research, and complexity theory
 - One of Karp's 21 problems shown to be NP-complete in 1972
 
+### Performances
 
 | Instance | UNIVERSE_SIZE | NUM_SETS | DENSITY |  cost  |
 |:---:|:---:|:---:|:---:|:---| 
